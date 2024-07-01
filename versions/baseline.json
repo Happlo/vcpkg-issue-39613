@@ -1,5 +1,9 @@
 {
   "default": {
+    "boost-cmake": {
+      "baseline": "1.85.0",
+      "port-version": 1
+    },
     "boost-uninstall": {
       "baseline": "1.85.0",
       "port-version": 1
