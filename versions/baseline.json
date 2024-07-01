@@ -1,0 +1,20 @@
+{
+  "default": {
+    "boost-uninstall": {
+      "baseline": "1.85.0",
+      "port-version": 1
+    },
+    "vcpkg-boost": {
+      "baseline": "2024-05-15",
+      "port-version": 0
+    },
+    "vcpkg-cmake": {
+      "baseline": "2024-04-23",
+      "port-version": 0
+    },
+    "vcpkg-cmake-config": {
+      "baseline": "2024-05-23",
+      "port-version": 0
+    }
+  }
+}
